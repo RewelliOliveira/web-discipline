@@ -25,4 +25,4 @@ const professores = [
   },
 ];
 
-export default professores;
+module.exports = professores;

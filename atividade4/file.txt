@@ -1,0 +1,16 @@
+back-end 
+*express 
+*serviço de listar
+
+Aluno
+-nome
+-curso
+-IRA(indice de rendimento academico)
+pelo menos 3 aluno
+
+
+Front-end
+*consumir p servico do back-end usando fetch(then-cat ou asnc-await)
+*gerar uma tabela dinamica
+* caucular a media dos ira
+O front é feito com html e css puro em arquivos separados
